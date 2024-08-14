@@ -1,7 +1,3 @@
-Here’s a sample README for your quantum gauge theory simulation project:
-
----
-
 # **Quantum Gauge Theory Simulation**
 
 This project simulates a 1+1d 𝑍2 gauge theory with staggered fermionic matter, inspired by Quantum Electrodynamics (QED). The goal is to explore the dynamics of electron and positron systems on a lattice, implemented on a quantum computing platform.
@@ -38,7 +34,6 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/[YourUsername]/quantum-gauge-theory-simulation.git
 cd quantum-gauge-theory-simulation
-pip install -r requirements.txt
 ```
 
 ## **Usage**
@@ -68,9 +63,4 @@ The results of the simulation include data visualizations and statistical analys
 ## **Contributing**
 Contributions are welcome! If you’d like to contribute to this project, please fork the repository, create a new branch, and submit a pull request.
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-This README provides a clear and concise overview of your project, instructions for setup and use, and details on the methodology and results.
